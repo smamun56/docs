@@ -46,7 +46,7 @@ Definition
         - Description
 
       * - ``inputs``
-
+xzzxccccccccccccccccccccccccccc
         - An array of :ref:`expressions <aggregation-expressions>` that
           resolve to arrays. The elements of these input arrays combine
           to form the arrays of the output array.
